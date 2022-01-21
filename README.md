@@ -1,4 +1,5 @@
-# Carlos III Grado de Ingenieria Informática - Estructura de datos y algoritmos
+# Carlos III Grado de Ingenieria Informática
+## Estructura de datos y algoritmos
 Incluye todas los trabajos realizados a lo largo del primer curso 2019/2020.
 
 Lenguaje: Java <br/>
